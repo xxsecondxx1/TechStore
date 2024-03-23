@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj": {}
+    "d:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj": {}
   },
   "projects": {
-    "D:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj": {
+    "d:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj",
+        "projectUniqueName": "d:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj",
         "projectName": "TechStore",
-        "projectPath": "D:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj",
+        "projectPath": "d:\\universidad\\program 1\\programas\\primera practica\\TechStore\\TechStore.csproj",
         "packagesPath": "C:\\Users\\mayron\\.nuget\\packages\\",
-        "outputPath": "D:\\universidad\\program 1\\programas\\primera practica\\TechStore\\obj\\",
+        "outputPath": "d:\\universidad\\program 1\\programas\\primera practica\\TechStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mayron\\AppData\\Roaming\\NuGet\\NuGet.Config"
