@@ -22,7 +22,7 @@ namespace TechStore.Models
         
         [Display(Name = "Precio de Producto")]
         [Required]
-        public Double Precio { get; set; }
+        public Double? Precio { get; set; }
 
        
     }

@@ -22,6 +22,17 @@ namespace TechStore.Controllers
         {
             return View("Index");
         }
+        // [HttpPost]
+        // public IActionResult Create([Bind("Nombre,Producto,Precio")] FormProducto formProducto)
+        // {
+        //     if (ModelState.IsValid)
+        //     {
+        //         ViewData["Message"] = "El Igv del producto es:"+(formProducto.Precio*0.18);
+        //         
+        //         return View("Index");
+        //     }
+        //     return View("Index");
+        // }
         
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
